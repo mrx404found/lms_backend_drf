@@ -1,0 +1,6 @@
+Django>=5.2
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+drf-yasg
+PyYAML  # required by drf-yasg
