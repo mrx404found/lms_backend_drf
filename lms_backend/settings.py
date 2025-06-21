@@ -17,8 +17,6 @@ DEBUG = False
 ALLOWED_HOSTS = ["*"]  # Change this to your domain in production
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",
-    "http://127.0.0.1:8000",
     "https://lms-backend-drf-ostad.onrender.com",
     "https://lms-frontend-zeta-three.vercel.app",
 ]
