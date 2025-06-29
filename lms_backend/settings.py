@@ -30,6 +30,7 @@ CORS_ALLOWED_ORIGINS = [
     "https://lms-frontend-plum-xi.vercel.app",
     "https://lms-frontend-git-main-md-walids-projects.vercel.app",
     "https://lms-frontend-mqs9umr0q-md-walids-projects.vercel.app",
+    "https://lms-frontend-a3fl.onrender.com",
     
 ]
 
