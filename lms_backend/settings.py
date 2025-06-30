@@ -20,6 +20,7 @@ CORS_ALLOWED_ORIGINS = [
     "https://lms-backend-drf-ostad.onrender.com",
     "https://lms-frontend-zeta-three.vercel.app",
     "http://localhost:5173",
+    "http://localhost:8080",
     "http://127.0.0.1:8000",
     "http://44.226.145.213",
     "http://54.187.200.255",
